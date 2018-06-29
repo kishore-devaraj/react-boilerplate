@@ -1,5 +1,5 @@
 {
-  "name": "@kishore-devaraj/react-boilerplate",
+  "name": "react-boilerplate",
   "version": "1.0.1",
   "description": "A Non CRA React project Boilerplate Code",
   "main": "index.js",
