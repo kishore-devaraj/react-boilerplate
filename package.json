@@ -1,6 +1,6 @@
 {
-  "name": "react-boilerplate",
-  "version": "1.0.0",
+  "name": "@kishore-devaraj/react-boilerplate",
+  "version": "1.0.1",
   "description": "A Non CRA React project Boilerplate Code",
   "main": "index.js",
   "scripts": {
@@ -22,9 +22,19 @@
     "webpack-cli": "^3.0.8",
     "webpack-dev-server": "^3.1.4"
   },
-  "repository": "https://github.com/kishore-devaraj/react-boilerplate",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishore-devaraj/react-boilerplate.git"
+  },
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kishore-devaraj/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/kishore-devaraj/react-boilerplate#readme",
+  "keywords": [
+    "reactjs"
+  ]
 }
